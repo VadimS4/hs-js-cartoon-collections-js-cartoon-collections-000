@@ -56,4 +56,3 @@ function wordsWithB(words){
   }
   return namesWithB;
 }
-
